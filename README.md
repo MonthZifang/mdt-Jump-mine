@@ -175,9 +175,7 @@ config/mods/config/mdt-jump-landmine/server-layouts/<map>-servers.json
 
 ## License
 
-- 禁止商用。
-- 允许任意修改。
-- 允许分发原始版本和修改版本。
-- 任何分发都必须保留原著链接：
-  https://github.com/MonthZifang/mdt-Jump-mine
-- 详细条款见 `LICENSE.md`。
+- Licensed under `PolyForm Noncommercial 1.0.0`.
+- Redistribution must retain the original source notice:
+  `https://github.com/MonthZifang/mdt-Jump-mine`
+- Full license text is in `LICENSE.md`.
