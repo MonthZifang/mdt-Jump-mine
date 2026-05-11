@@ -1,0 +1,19 @@
+{
+  "metadataVersion": 1,
+  "name": "mdt-jump-landmine",
+  "displayName": "MDT 跳板地雷",
+  "displayNameZh": "MDT 跳板地雷",
+  "author": "monthzifang",
+  "description": "扫描地雷，生成可编辑跳板绑定，同步远程服务器状态，并向客户端发送服务器或网页跳转请求。",
+  "descriptionZh": "扫描地图中的地雷并生成可编辑跳转配置，同步服务器状态，并在地雷上层渲染跳转信息。",
+  "version": "V1.0.0 - 157X - 2026-05-10",
+  "requiredMarketVersion": "v1",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "downloadUrls": [],
+  "dependencies": [],
+  "repositoryUrl": "",
+  "entry": "com.mdt.jumpmine.JumpLandminePlugin"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mdt-jump-landmine",
+  "author": "monthzifang",
+  "main": "com.mdt.jumpmine.JumpLandminePlugin",
+  "description": "扫描地雷、生成可编辑跳板绑定、同步远程服务器状态，并向客户端发送跳转请求。",
+  "version": "V1.0.0 - 157X - 2026-05-10"
+}
